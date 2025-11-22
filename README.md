@@ -20,19 +20,5 @@ This notebook guides you through building a Deep Neural Network (DNN) from scrat
     * **L-Model Backward**: Perform backward propagation for the entire L-layer network.
     * **Update Parameters**: Update weights and biases using Gradient Descent.
 
-## Learning Objectives
 
-By the end of this assignment, you will be able to:
-* Use non-linear units like ReLU to improve your model.
-* Build a deeper neural network (with more than 1 hidden layer).
-* Implement an easy-to-use neural network class.
 
-## Important Notes
-
-* Do not add any *extra* `print` statement(s) or code cell(s) to avoid errors with the AutoGrader.
-* Do not change any of the function parameters or use global variables inside your graded exercises.
-* Ensure you follow NumPy broadcasting rules for matrix calculations.
-
-## Author
-
-* **HE195204 Phúc Đức**
