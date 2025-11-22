@@ -1,5 +1,6 @@
 # Building a Deep Neural Network: Step by Step
 
+(Class Assignment)
 This notebook guides you through building a Deep Neural Network (DNN) from scratch using Python and NumPy, without relying on deep learning frameworks like TensorFlow or PyTorch. The goal of this lab is to help you understand the internal mechanisms of DNNs by implementing the fundamental functions yourself.
 
 ## Table of Contents
